@@ -1,0 +1,5 @@
+.env
+docs*/
+out/
+promts/__pycache__/
+venv/
